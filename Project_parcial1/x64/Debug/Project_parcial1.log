@@ -1,0 +1,9 @@
+﻿  Programa.cpp
+C:\Users\jeffc\Documents\Project_parcial1-master\Project_parcial1\Programa.h(92,13): warning C4129: 's': secuencia de escape de carácter no reconocida
+  Source.cpp
+C:\Users\jeffc\Documents\Project_parcial1-master\Project_parcial1\Programa.h(92,13): warning C4129: 's': secuencia de escape de carácter no reconocida
+  Generando código...
+C:\Users\jeffc\Documents\Project_parcial1-master\Project_parcial1\Cuadrado.h(116): warning C4715: 'Cuadrado::getDimenciones': no todas las rutas de acceso de control devuelven un valor
+C:\Users\jeffc\Documents\Project_parcial1-master\Project_parcial1\Triangulo.h(85): warning C4715: 'Triangulo::getAltura': no todas las rutas de acceso de control devuelven un valor
+C:\Users\jeffc\Documents\Project_parcial1-master\Project_parcial1\Circulo.h(93): warning C4715: 'Circulo::getRadio': no todas las rutas de acceso de control devuelven un valor
+  Project_parcial1.vcxproj -> C:\Users\jeffc\Documents\Project_parcial1-master\x64\Debug\Project_parcial1.exe
